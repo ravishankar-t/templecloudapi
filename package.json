@@ -1,0 +1,22 @@
+{
+  "name": "templecloudapi",
+  "version": "1.0.0",
+  "description": "Used for templecloud application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravishankar-t/templecloudapi.git"
+  },
+  "keywords": [
+    "templecloud"
+  ],
+  "author": "ravishankar.tirumalasetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravishankar-t/templecloudapi/issues"
+  },
+  "homepage": "https://github.com/ravishankar-t/templecloudapi#readme"
+}
