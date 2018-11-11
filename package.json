@@ -2,9 +2,10 @@
   "name": "templecloudapi",
   "version": "1.0.0",
   "description": "Used for templecloud application",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+   
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,19 @@
   "bugs": {
     "url": "https://github.com/ravishankar-t/templecloudapi/issues"
   },
-  "homepage": "https://github.com/ravishankar-t/templecloudapi#readme"
+  "homepage": "https://github.com/ravishankar-t/templecloudapi#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "cors": "^2.8.4",
+    "jsonwebtoken": "^8.1.0",
+    "morgan": "^1.8.1",
+    "serve-favicon": "~2.4.2",
+    "kerberos": "~0.0.17",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "config": "^1.28.1"
+   
+  }
 }

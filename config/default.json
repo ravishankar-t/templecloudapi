@@ -1,0 +1,8 @@
+
+	 
+{
+    "mongohost":"cluster0-shard-00-00-devtv.mongodb.net" ,
+    "mongoport":"27017"   
+     
+}
+
